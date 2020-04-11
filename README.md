@@ -1,3 +1,3 @@
 # hello-world
-Starting To Learn
+Starting To Learn! 
 I am a music nerd that is fascinated by coding...
